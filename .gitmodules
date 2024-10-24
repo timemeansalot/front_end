@@ -1,0 +1,3 @@
+[submodule "sub_sub"]
+	path = sub_sub
+	url = https://github.com/timemeansalot/sub_sub
